@@ -1,10 +1,10 @@
-**Music Playlist**
+# Music Playlist
 
 This is a simple Music Playlist Web Application developed using HTML, CSS, and JavaScript. I build this project to improve my frontened web developremnt skills and to understand how JavaScript can be used to control audio playback and interact with web page elements.
 
 The application allows users to play songs,pause then,and switch between different tracks throygh an easy to use interface.It also displays album covers and song information,making the music player more interactive and visually appealing.
 
-*Features*
+## Features
 
 - Play and pause songs
 - Move to teh next or previous track
@@ -12,13 +12,13 @@ The application allows users to play songs,pause then,and switch between differe
 - Interactive and user friendly interface
 - Resonsive design for different screen sizes
 
-*Technologies Used*
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-*What I Learned*
+## What I Learned
 
 While building this project,I gained hands on experience with:
 
@@ -28,7 +28,7 @@ While building this project,I gained hands on experience with:
 - Styling web pages with CSS
 - Organising frontened project files
 
-*Author*
+## Author
 Harika
 
 
